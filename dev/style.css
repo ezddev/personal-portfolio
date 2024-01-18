@@ -1,0 +1,18 @@
+html{
+    background-color: orange;
+}
+p{
+    font-size: 20px;
+}
+.index-body{
+    background-color: red;
+}
+#code{
+    background-color: lightblue;
+}
+p[draggable]{
+    background-color: blueviolet;
+}
+p[draggable="false"]{
+    background-color: green;
+}
